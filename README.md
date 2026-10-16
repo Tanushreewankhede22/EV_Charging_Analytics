@@ -32,3 +32,6 @@ to understand charging patterns, energy consumption, and revenue.
 ## Project Objective
 To analyze EV charging data and generate useful insights
 for understanding charging demand and revenue patterns.
+
+## Dashboard Preview
+![EV Charging Analytics Dashboard](dashboard_overview.png)
